@@ -6,8 +6,8 @@
 const fs = require("fs");
 const path = require("path");
 
-const DATA_FILE = path.join(__dirname, "../data/messages.json");
-const MEMBERS_FILE = path.join(__dirname, "../data/members.json");
+const DATA_FILE = path.join(__dirname, "../messages.json");
+const MEMBERS_FILE = path.join(__dirname, "../members.json");
 
 // ---- אחסון הודעות ----
 let messages = [];
