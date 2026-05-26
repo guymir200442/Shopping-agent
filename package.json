@@ -1,7 +1,7 @@
 {
   "name": "family-shopping-agent",
   "version": "1.0.0",
-  "description": "סוכן קניות משפחתי — מקבל הודעות וואטסאפ ומייצר רשימת קניות חכמה",
+  "description": "Family shopping agent",
   "main": "server.js",
   "scripts": {
   "start": "node server.js"
